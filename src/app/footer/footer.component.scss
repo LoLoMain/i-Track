@@ -1,0 +1,17 @@
+@import '../../_vars';
+
+footer {
+  background: $primary;
+
+  a {
+    color: $white;
+  }
+
+  li {
+    list-style-type: none;
+  }
+
+  h3 {
+    color: $white;
+  }
+}
