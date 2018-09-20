@@ -9,9 +9,16 @@ footer {
 
   li {
     list-style-type: none;
+    text-align: left;
   }
 
   h3 {
     color: $white;
+    margin-top: 30px;
+  }
+
+  h4 {
+    color: $white;
+    text-align: center;
   }
 }

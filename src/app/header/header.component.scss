@@ -3,4 +3,13 @@
 header {
   background: $primary;
   color: $white;
+
+  a:not(.btn) {
+    color: $white;
+    text-decoration: underline;
+  }
+
+  .logo {
+    padding: 20px;
+  }
 }
